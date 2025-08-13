@@ -138,16 +138,5 @@ CREATE TABLE employees (
 
 ---
 
-## 📸 Screenshots
-> Replace these with actual screenshots of your app
-
-**Employee Dashboard**
-![Dashboard Screenshot](https://via.placeholder.com/900x500?text=Dashboard+Screenshot)
-
-**Add Employee Form**
-![Form Screenshot](https://via.placeholder.com/900x500?text=Form+Screenshot)
-
----
-
 ## 📜 License
 This project is licensed under the **MIT License**.
